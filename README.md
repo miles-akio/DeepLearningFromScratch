@@ -1,6 +1,8 @@
 # DeepLearningFromScratch
 
 ```markdown
+# DeepLearningFromScratch
+
 ## Overview
 
 **DeepLearningFromScratch** is an implementation of a basic feedforward neural network using only `numpy`, without relying on any high-level deep learning libraries like TensorFlow or PyTorch. This project demonstrates fundamental concepts of deep learning, including forward propagation, backpropagation, gradient descent, and hyperparameter tuning. It uses a toy dataset to perform regression tasks.
